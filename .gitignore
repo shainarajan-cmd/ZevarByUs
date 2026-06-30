@@ -27,3 +27,6 @@ pnpm-debug.log*
 # editor
 .vscode/
 .idea/
+
+# local Codex/GitHub access keys
+.codex-github/
